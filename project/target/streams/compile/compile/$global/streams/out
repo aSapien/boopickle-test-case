@@ -1,0 +1,4 @@
+[error] /Users/dimaryskin/projects/scala-debug/project/Dependencies.scala:7:44: ';' expected but string literal found.
+[error]   lazy val apacheCommons = "commons-codec" "commons-codec"
+[error]                                            ^
+[error] one error found
