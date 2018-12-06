@@ -14,7 +14,7 @@ lazy val root = (project in file(".")).settings(
     booPickleShapeless,
   ),
   scalacOptions ++= Seq(
-//    "-Ypartial-unification",
+    "-Ypartial-unification",
     "-Ymacro-debug-lite",
   )
 )
